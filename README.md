@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
     <h1 align="center">Hi 👋, I'm Leandro Piazza</h1>
     <h3 align="center">A passionate frontend developer from Argentina. Always focused on learning best practices, languages and technologies.
         In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. </br>
@@ -33,12 +33,16 @@
 ---
 
 ### 📊 My Stats :
-
+     
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lean-98&theme=gotham)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lean-98&show_icons=true&theme=vue-dark)
 
-![](https://raw.githubusercontent.com/Lean-98/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Lean-98/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<h4 align="center">Visitor's count :eyes:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://profile-counter.glitch.me/{Lean-98}/count.svg" alt="Lean-98 :: Visitor's Count" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&langs_count=10&theme=tokyonight&layout=compact" alt="Lean-98 :: Top Langs" /></p>
+
+
+---
