@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **JavaScript, React.js**
 
 ### 📫 How to reach me :
-<a href="mailto:leanfrag23@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/leandro-piazza23" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20"></a>
 
 
