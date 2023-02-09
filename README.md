@@ -12,8 +12,10 @@
 - 🌱 I’m currently learning **JavaScript, React.js**
 
 ### 📫 How to reach me :
-![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="mailto:leanfrag23@gmail.com" target="_blank"/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://linkedin.com/in/leandro-piazza23/)
+<a href="mailto:leanfrag23@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/leandro-piazza23" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20"></a>
+
+
   
 <!-- **leanfrag23@gmail.com**  and  <a href="https://linkedin.com/in/leandro-piazza23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-piazza23" height="20" width="20" /></a></p>  -->
 
