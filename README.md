@@ -11,9 +11,16 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js**
 
-### 📫 How to reach me :
+<!--### 📫 How to reach me : -->
+## 🔗 How to reach me :
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
 <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/leandro-piazza23" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20"></a>
+
+
+
+<!-- <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!--<a href="https://linkedin.com/in/leandro-piazza23" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20"></a> 
 
 
   
