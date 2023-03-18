@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
     <h1 align="center">Hi 👋, I'm Leandro Piazza</h1>
-    <h3 align="center">A passionate frontend developer from Argentina. Always focused on learning best practices, languages and technologies.
+    <h3 align="center">A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.
         In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. </br>
         A lover of knowledge, always seeking to be better at what I do.
     </h3>
