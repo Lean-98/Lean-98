@@ -7,18 +7,15 @@
  
  <h1 align="center">💫 About Me:</h1>
 
-<p align="center">
-        <h3>A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.
-        In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. 
-        A lover of knowledge, always seeking to be better at what I do.
-</p>
-<br>🌱 I’m currently learning React.js and Node.js<br>
+<div align="center">
+        <p style="font-size: 25px;">A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.</br>
+        In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. </br>
+            A lover of knowledge, always seeking to be better at what I do.</p>
+    <br><p>🌱 I’m currently learning React.js and Node.js</p>
+</div>
 
 
-
-
-## Languages & libraries
-
+<h1 align="center">Languages & libraries</h1>
 <table>
   <tr>
     <td align="center" width="96">
@@ -85,16 +82,23 @@
 </table>
 
 ---
-
-# 📊 GitHub Stats:
+<div align="center">
+    <h1>📊 GitHub Stats:</h1>
+    
 ![](https://github-readme-stats.vercel.app/api?username=Lean-98&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lean-98&theme=gotham&hide_border=false)</br>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Lean-98&theme=gotham&hide_border=false)<br/> -->
+
+
 <!-- [![](https://visitcount.itsvg.in/api?id=Lean-98&icon=5&color=3)](https://visitcount.itsvg.in) -->
+ 
+
 ---
 
 ## 🔗 How to reach me :
  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
  <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
 
