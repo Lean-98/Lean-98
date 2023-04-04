@@ -1,30 +1,19 @@
-<div id="header" align="center">
-    <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-    <h1 align="center">Hi 👋, I'm Leandro Piazza</h1>
-    <h3 align="center">A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.
-        In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. </br>
+<div align="center">
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=25&pause=1000&color=4ECCA3&center=true&width=450&height=80&lines=Frontend+Developer;1+%2B+year+of+working+experience;Being+passionate+and+creative" alt="Typing SVG" /></a>
+    
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYyNjY4MzJkZGRjN2ZmMDFkZmU4NmUzNzZiZDE1ZmIwYTU5MDAyNyZjdD1n/MuTQ5B5HV1kjUWdJ3b/giphy.gif" alt="Synthwave" height="300" width="500">
+ </div> 
+ 
+<p align="center">
+        <h3>A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.
+        In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. 
         A lover of knowledge, always seeking to be better at what I do.
-    </h3>
-</div>
-
-### 👨‍💻 About Me :
-
-- 🌱 I’m currently learning **JavaScript, React.js**
-
-<!--### 📫 How to reach me : -->
-## 🔗 How to reach me :
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
-<a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 
-
-<!-- <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!--<a href="https://linkedin.com/in/leandro-piazza23" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20"></a> 
-
-
-  
-<!-- **leanfrag23@gmail.com**  and  <a href="https://linkedin.com/in/leandro-piazza23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-piazza23" height="20" width="20" /></a></p>  -->
+# 💫 About Me:
+<br>🌱 I’m currently learning React.js and Node.js<br>
 
 
 
@@ -45,17 +34,15 @@
 
 ---
 
-### 📊 My Stats :
-     
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lean-98&theme=gotham)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lean-98&show_icons=true&theme=vue-dark)
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Lean-98}/count.svg" alt="Lean-98 :: Visitor's Count" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&langs_count=10&theme=tokyonight&layout=compact" alt="Lean-98 :: Top Langs" /></p>
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lean-98&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lean-98&theme=gotham&hide_border=false)</br>
+<!-- [![](https://visitcount.itsvg.in/api?id=Lean-98&icon=5&color=3)](https://visitcount.itsvg.in) -->
 ---
+
+## 🔗 How to reach me :
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
+ <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
