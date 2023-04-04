@@ -81,7 +81,6 @@
   </tr>
 </table>
 
----
 <div align="center">
     <h1>📊 GitHub Stats:</h1>
     
@@ -92,10 +91,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Lean-98&icon=5&color=3)](https://visitcount.itsvg.in) -->
  
-
----
-
-## 🔗 How to reach me :
+ ## 🔗 How to reach me :
  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
  <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
