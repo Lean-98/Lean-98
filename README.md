@@ -11,11 +11,11 @@
         <p style="font-size: 25px;">A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.</br>
         In The design I like to dedicate the necessary time to the smallest detail to improve and optimize the user's visual environment. </br>
             A lover of knowledge, always seeking to be better at what I do.</p>
-    <br><p>🌱 I’m currently learning React.js and Node.js</p>
+    <br><p>🌱 I’m currently learning Next.js and Node.js</p>
 </div>
 
 
-<h1 align="center">Languages & libraries</h1>
+<h1 align="center">Frontend</h1>
 <table>
   <tr>
     <td align="center" width="96">
@@ -29,6 +29,24 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a>
@@ -49,16 +67,28 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>Sass
+      <br>Redux
     </td>
-    <td align="center" width="96">
-      <a >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+  </tr>
+</table>
+
+<h1 align="center">Backend</h1>
+<table>
+  <tr>
+    <td align="center"  width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>MongoDB
+      <br>PHP
+    </td>
+    <td align="center"  width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a>
@@ -66,20 +96,70 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>    
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+  </tr>
+</table>
+
+<h1 align="center">Tools-Testing and Design Ui/Ux</h1>
+<table>
+  <tr>
     <td align="center"  width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       </a>
-      <br>PHP
+      <br>Webpack
     </td>
+    <td align="center"  width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" width="48" height="48" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>    
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="48" height="48" alt="Illustrator" />
+      </a>
+      <br>Illustrator
+    </td>    
   </tr>
 </table>
+
+
 
 <div align="center">
     <h1>📊 GitHub Stats:</h1>
@@ -92,8 +172,8 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Lean-98&icon=5&color=3)](https://visitcount.itsvg.in) -->
  
  ## 🔗 How to reach me :
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lean-98.github.io/Briefcase-2k23/)
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
+ [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-leandropiazza.netlify.app/)
+ [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23)
  <a href="mailto:lean.piazza988@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
