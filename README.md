@@ -108,6 +108,12 @@
       </a>
       <br>Node.js
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://media.zeemly.com/zeemly/product/expressjs.png" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
   </tr>
 </table>
 
