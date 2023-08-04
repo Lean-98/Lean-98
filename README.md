@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYyNjY4MzJkZGRjN2ZmMDFkZmU4NmUzNzZiZDE1ZmIwYTU5MDAyNyZjdD1n/MuTQ5B5HV1kjUWdJ3b/giphy.gif" alt="Synthwave" height="300" width="500">
  </div> 
  
- <h1 align="center">💫 About Me:</h1>
+ <h1 align="center">⚡️ About Me:</h1>
 
 <div align="center">
         <p style="font-size: 25px;">A passionate frontend developer from Argentina. Always focused on learning best practices and technologies.</br>
