@@ -38,12 +38,6 @@
     </td>
     <td align="center" width="96">
       <a >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
