@@ -9,8 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lean.piazza988@gmail.com)](mailto:lean.piazza988@gmail.com)
  [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-leandropiazza.netlify.app/)
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Lean-98&style=for-the-badge">
+ <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Lean-98&style=for-the-badge"></a>
+ <a href="https://wakatime.com/@c4402533-e4bc-40e8-bfda-83bc4e28f648"><img src="https://wakatime.com/badge/user/c4402533-e4bc-40e8-bfda-83bc4e28f648.svg" width='180px' height='28px' alt="Total time coded since Sep 13 2023" /></a>
 </div>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
