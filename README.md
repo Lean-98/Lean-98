@@ -60,6 +60,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lean98&theme=react&langs_count=6&layout=compact&range=all_time" alt="wakatime" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=react&langs_count=2" alt="most_langs">
+</div>
  
