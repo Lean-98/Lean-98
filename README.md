@@ -41,15 +41,15 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48" title="Jest">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" title="Illustrator">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">       
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="ExpressJS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">      
-<img src="" width="48" title="">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
+<img src="" width="48" title="">
 <p/>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
