@@ -17,9 +17,9 @@
 
 ## About Me:
 
-- 👨🏽‍💻 Frontend Developer - Freelancer.
+- 👨🏽‍💻 Fullstack Developer - Freelancer.
 - ⚡️ A lover of knowledge, always seeking to be better at what I do.
-- 🌱 I’m currently learning Next.js 14 and Node.js.
+- 🌱 I’m currently learning Next.js 14 and Tailwind.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
