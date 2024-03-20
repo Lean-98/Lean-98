@@ -52,9 +52,9 @@
 <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="48" title="AWS">-->   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48" title="Jest">  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Cypress-Dark.svg" width="48" title="Cypress"> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="48" title="Linux">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="48" title="Windows">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Cypress-Light.svg" width="48" title="Cypress"> 
+<!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="48" title="Linux">--> 
+<!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="48" title="Windows">--> 
 
 <!--<img src="" width="48" title="">-->  
 <p/>
@@ -70,7 +70,9 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lean98&theme=react&langs_count=6&layout=compact&range=all_time" alt="wakatime" >
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lean98&theme=react&langs_count=6&layout=compact&range=all_time" alt="wakatime" >-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=react&langs_count=2" alt="most_langs">-->
+<img src="https://wakatime.com/share/@Lean98/a435c08e-e923-44c0-aa40-fbba9bf5483f.svg" alt="most_langs" width="500">
+    <img src="https://wakatime.com/share/@Lean98/fede8aac-5b7b-4231-bdbd-d960eaafa159.svg" alt="OS" width="500">
 </div>
  
