@@ -72,7 +72,7 @@
 <div align='center'>
   <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lean98&theme=react&langs_count=6&layout=compact&range=all_time" alt="wakatime" >-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=react&langs_count=2" alt="most_langs">-->
-<img src="https://wakatime.com/share/@Lean98/a435c08e-e923-44c0-aa40-fbba9bf5483f.svg" alt="most_langs" width="500">
-    <img src="https://wakatime.com/share/@Lean98/fede8aac-5b7b-4231-bdbd-d960eaafa159.svg" alt="OS" width="500">
+<img src="https://wakatime.com/share/@Lean98/a435c08e-e923-44c0-aa40-fbba9bf5483f.svg" alt="most_langs" width="600">
+    <img src="https://wakatime.com/share/@Lean98/fede8aac-5b7b-4231-bdbd-d960eaafa159.svg" alt="OS" width="600">
 </div>
  
