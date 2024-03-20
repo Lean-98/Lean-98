@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="48" title="Linux">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="48" title="Windows">
 
-<img src="" width="48" title="">
+<!--<img src="" width="48" title="">-->  
 <p/>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
