@@ -71,6 +71,6 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lean98&theme=react&langs_count=6&layout=compact&range=all_time" alt="wakatime" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=react&langs_count=2" alt="most_langs">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-98&theme=react&langs_count=2" alt="most_langs">-->
 </div>
  
