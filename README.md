@@ -8,7 +8,7 @@
     
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piazza23/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leandro.piazza.dev@gmail.com)](mailto:leandro.piazza.dev@gmail.com)
- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-leandropiazza.netlify.app/)
+ [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolioleandropiazza.vercel.app/)
  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Lean-98&style=for-the-badge"></a>
  <a href="https://wakatime.com/@c4402533-e4bc-40e8-bfda-83bc4e28f648"><img src="https://wakatime.com/badge/user/c4402533-e4bc-40e8-bfda-83bc4e28f648.svg" width='180px' height='28px' alt="Total time coded since Sep 13 2023" /></a>
 </div>
@@ -19,7 +19,7 @@
 
 - 👨🏽‍💻 Fullstack Developer - Freelancer.
 - ⚡️ A lover of knowledge, always seeking to be better at what I do.
-- 🌱 I’m currently learning Next.js 14 and Tailwind.
+- 🌱 I'm currently learning Nest.js while at the same time honing my knowledge in Next.js 14 and Tailwind.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -37,13 +37,13 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">         
+<!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">-->           
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="ExpressJS"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" width="48" title="NestJS"> 
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="48" title="Docker"> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" width="48" title="Postman">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP"> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="48" title="Docker"> 
+<!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" width="48" title="Postman">-->  
+<!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">-->  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prisma.svg" width="48" title="Prisma"> 
