@@ -1,7 +1,3 @@
-<div align="center">
-<h1 align="center">Hi, i´m <a href="https://portfolio-leandropiazza.netlify.app/">Leandro Piazza</a> 👋</h1>
-</div>
-
 <img src="https://i.imgur.com/W1xAjko.jpg">
 
 <div align="start">
